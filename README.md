@@ -1,6 +1,6 @@
 # JerseyEmployeeServiceClient Project
 
-This Java Project is a Restful Webservice Client that connects to an Employee Oracle Database
+This Java Project is a Restful Webservice Client that request services from Web Service Provider
 For The Following Operations (CRUD Operations) on the Employee Database
 
 1- Create Employee Record -> TestClient1
